@@ -2,4 +2,4 @@
 
 -19521440 Nguyễn Văn Duyên
 -19521413 Trần Ngô Nam Dương
--19521703 Võ Đình Khoa
+-19521703 Võ Đinh Khoa
